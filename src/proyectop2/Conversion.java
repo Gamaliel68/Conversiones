@@ -13,7 +13,7 @@ public class Conversion {
        
         return Integer.toOctalString(n);
     }
-    adjggda
+    
     public String bin(int n){
         
         return Integer.toBinaryString(n);
